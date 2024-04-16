@@ -1,2 +1,2 @@
-gunicorn==19.9.0
+gunicorn==22.0.0
 virtualenv==16.6.1
